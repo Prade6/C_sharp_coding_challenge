@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Database_ConnectionString": "Server=PIKACHU;Database=PetPals;Trusted_Connection=True"
+  }
+}
